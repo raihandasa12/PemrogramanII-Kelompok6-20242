@@ -2,11 +2,11 @@
 
 # Anggota Kelompok 6:
 
-NANDI MULYANA
-PUNIKO DHINO SAE
-RAFI BASTHARA
-RAIHAN DASA ARI MUKTI 
-RAMA PRANATA
+# NANDI MULYANA
+# PUNIKO DHINO SAE
+# RAFI BASTHARA
+# RAIHAN DASA ARI MUKTI 
+# RAMA PRANATA
 
 # Deskripsi Program
 Deskripsi: Ini adalah Aplikasi Mini perpustakaan berbasis console dengan OOP. Dengan Fitur: ~Input data buku: judul, penulis, stok ~Input peminjam: nama, NIM ~Fungsi pinjam dan kembali buku ~Laporan buku dipinjam
